@@ -50,6 +50,6 @@ public class LoginSteps {
 
     @Then("I am NOT logged in")
     public void iAmNOTLoggedIn() {
-        
+
     }
 }
